@@ -163,14 +163,14 @@
 };
 
 &iwdg1{
-	status = "okay";
+	status = "disabled";
 
 	/* USER CODE BEGIN iwdg1 */
 	/* USER CODE END iwdg1 */
 };
 
 &iwdg2{
-	status = "okay";
+	status = "disabled";
 
 	/* USER CODE BEGIN iwdg2 */
 	/* USER CODE END iwdg2 */
